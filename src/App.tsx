@@ -12,7 +12,7 @@ if (!apiKey) {
   throw new Error("API key is missing! Check your environment variables.");
 }
 const genAI = new GoogleGenerativeAI(apiKey);
-const model = genAI.getGenerativeModel({ model: "gemini-1.0-pro" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
 const fetchResponseFromAPI = async (message: string): Promise<string> => {
   try {
