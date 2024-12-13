@@ -8,7 +8,7 @@
   "description": "A modern chat application inspired by Gemini, offering seamless communication and intuitive design.",
   "icons": [
     {
-      "src": "./src/assets/bot.svg",
+      "src": "/public/bot.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
