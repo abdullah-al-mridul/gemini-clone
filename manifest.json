@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "/bot.png",
-      "sizes": "any",
+      "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any"
     }
