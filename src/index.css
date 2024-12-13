@@ -23,3 +23,7 @@
 ::-webkit-scrollbar-thumb:hover {
   background: #374151;
 }
+::selection {
+  background: #10b981;
+  color: #111827;
+}
