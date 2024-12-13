@@ -1,0 +1,17 @@
+{
+  "name": "Gemini Clone",
+  "short_name": "Gemini",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "description": "A modern chat application inspired by Gemini, offering seamless communication and intuitive design.",
+  "icons": [
+    {
+      "src": "src/assets/bot.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

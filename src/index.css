@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --screen-height: 100vh;
+}
+/* Set the width of the scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Style the track (background) of the scrollbar */
+::-webkit-scrollbar-track {
+  background: #111827;
+}
+
+/* Style the draggable part of the scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #1f2937;
+}
+
+/* Change color of the thumb when hovered */
+::-webkit-scrollbar-thumb:hover {
+  background: #374151;
+}
